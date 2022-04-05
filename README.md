@@ -1,2 +1,2 @@
 # CPP
-This File IS Photo Shop Applaction
+This File IS PhotoShop Applaction
